@@ -1,0 +1,14 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "DWT demo using TypeScript",
+  "dependencies": {
+    "dwt": "^12.3.0"
+  },
+  "keywords": [
+    "document",
+    "dwt"
+  ],
+  "author": "Dynamsoft",
+  "license": "MIT"
+}
