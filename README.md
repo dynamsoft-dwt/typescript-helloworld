@@ -19,3 +19,6 @@
     tsc test.ts
     ```
 3. Open **index.htm** in Chrome.
+
+## Blog
+[How to Write and Use TypeScript Declaration File](http://www.codepool.biz/write-use-typescript-declaration-file.html)
